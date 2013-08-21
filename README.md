@@ -6,3 +6,4 @@
 git clone -> cd server -> npm install -> npm run sampleDb -> npm run dev
 ```
 
+Todo: много, но как пример более-менее сложного приложения подойдёт ;)
