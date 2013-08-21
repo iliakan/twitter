@@ -3,7 +3,12 @@
 
 Чтобы запустить: 
 ```
-git clone -> cd server -> npm install -> npm run sampleDb -> npm run dev
+git clone
+cd server
+npm install
+// Mongo 2.4+ должна быть запущена
+npm run sampleDb
+npm run dev
 ```
 
-Todo: много, но как пример более-менее сложного приложения подойдёт ;)
+Todo: добавить тесты, поправить редкие баги, как пример более-менее сложного приложения уже подойдёт ;)

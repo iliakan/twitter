@@ -112,8 +112,10 @@ define([
           self.containerLeftViews.remove(view);
         });
 
-        var view = new MessageCreateView().render();
-        this.containerLeftViews.add(view, 'messageCreate');
+        if (socket.session.isAuthorized()) {
+          var view = new MessageCreateView().render();
+          this.containerLeftViews.add(view, 'messageCreate');
+        }
 
       },
 
