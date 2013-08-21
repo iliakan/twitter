@@ -12,7 +12,7 @@
     "ejs": "*",
     "http-status": "*",
     "socket.io": "*",
-    "winston": "*"
+    "winston": "*",
     "connect": "*",
     "debug": "*",
     "express": "*",
