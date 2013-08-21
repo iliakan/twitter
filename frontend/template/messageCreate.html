@@ -1,0 +1,12 @@
+
+<h2>
+  <img src="/avatars/48x48/<%=user.avatar%>">
+  <a data-navigate href="/<%=user.username%>"><%=user.username%></a>
+</h2>
+
+<form action="message:create">
+  <div class="form-group">
+  <textarea name="content" rows="3" class="form-control" placeholder="Что происходит?"></textarea>
+  </div>
+  <button type="submit" data-loading-text="Отправляю.." class="btn btn-primary">Отправить</button>
+</form>

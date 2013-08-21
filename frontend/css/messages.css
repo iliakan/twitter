@@ -1,0 +1,26 @@
+
+.messages h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.messages .created {
+  float: right;
+}
+
+.messages li {
+  list-style: none;
+  margin-bottom: 10px;
+  border-bottom: 1px solid gray;
+}
+
+.messages li:last-child {
+  border-bottom: none;
+}
+
+.messages .avatar {
+  width: 32px;
+  height: 32px;
+  float:left;
+  margin: 0 5px 3px 0;
+}

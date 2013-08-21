@@ -1,0 +1,6 @@
+<div class="created"><%=formatDate(created, 'dd.mm.yyyy hh:ii:ss')%></div>
+<img src="/avatars/48x48/<%=user.get('avatar')%>" class="avatar">
+<div class="author">
+  <a href="/<%=user.get('username')%>" data-navigate><%=user.get('username')%></a>
+</div>
+<div class="content"><%=content%></div>

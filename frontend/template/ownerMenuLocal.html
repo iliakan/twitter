@@ -1,0 +1,21 @@
+<h2>Твиты</h2>
+<ul>
+
+  <% if (isOwnerUser) { %>
+    <li><a href="/<%=username%>" data-navigate="username">Мои твиты</a></li>
+    <li><a href="/<%=username%>/following" data-navigate="username/following">Я читаю</a></li>
+  <% } else { %>
+
+    <li><a href="/<%=username%>" data-navigate="username">Его твиты</a></li>
+    <li><a href="/<%=username%>/following" data-navigate="username/following">Он читает</a></li>
+    <% if(isAuthorized) { %>
+    <li>
+        <% if (isFollowing) { %>
+        <button class="unfollow">Не читать</button>
+        <% } else { %>
+        <button class="follow">Читать</button>
+        <% } %>
+    </li>
+    <% } %>
+  <% } %>
+</ul>

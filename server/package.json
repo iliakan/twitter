@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "*",
+    "connect-mongo": "*",
+    "ejs": "*",
+    "http-status": "*",
+    "socket.io": "*",
+    "winston": "*"
+    "connect": "*",
+    "debug": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "supertest": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_PATH=. node app.js",
+    "dev": "DEBUG=server:* NODE_PATH=. supervisor --debug --ignore node_modules app.js",
+    "sampleDb": "NODE_PATH=. node createSampleDb.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}

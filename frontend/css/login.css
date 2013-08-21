@@ -1,0 +1,18 @@
+.login-form {
+  margin: 30px;
+}
+
+.login-form .form-group {
+  margin: 10px;
+  width: 200px;
+  overflow: auto;
+}
+
+.login-form .help-block {
+  display: none;
+  color: red;
+}
+
+.login-form.error .help-block {
+  display: block;
+}

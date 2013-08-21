@@ -1,0 +1,53 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+
+      <div class="header">
+        <ul class="list-inline">
+          <% if (user) { %>
+          <li>
+            <a href="/" data-navigate>Главная</a>
+          </li>
+          <li>
+            <a href="/<%=user.username%>" data-navigate>Моя страница</a>
+          </li>
+          <li class="pull-right">
+            <form class="form-inline" method="POST" action="/user/logout">
+              <button class="btn btn-default" type="submit">Выйти</button>
+            </form>
+          </li>
+          <li class="socket-status pull-right"></li>
+          <% } else { %>
+          <li>
+            <a href="/">Войти</a>
+          </li>
+          <% } %>
+        </ul>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <ul class="container-left">
+          </ul>
+
+
+          <div class="well">
+            <div>&copy; Илья Кантор, 2013</div>
+            <p>
+              <small>В процессе написания ни один твиттер не пострадал.</small>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-9">
+
+          <div class="region-user"></div>
+          <div class="region-messages"></div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+

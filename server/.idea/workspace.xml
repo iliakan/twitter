@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d14803bb-d6a2-419d-a627-87eefcec5f2d" name="Default" comment="" />
+    <ignored path="server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/a.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365056176124" ignored="false" />
+    <file path="/actions.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365172913549" ignored="false" />
+    <file path="/index.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365669450996" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/index.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365233462832" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/messages.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538576923" ignored="false" />
+    <file path="/messages.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365669151081" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/messages-empty.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365063185794" ignored="false" />
+    <file path="/messages-empty.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365063185490" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/index.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245057713" ignored="false" />
+    <file path="/index.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245475710" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/style.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365414461078" ignored="false" />
+    <file path="/style.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676005783" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/message-create.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365063487829" ignored="false" />
+    <file path="/message-create.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365063460619" ignored="false" />
+    <file path="/router.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538207920" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/router.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538207920" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/app.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365455166013" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/main.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365539069452" ignored="false" />
+    <file path="/main.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667311962" ignored="false" />
+    <file path="/app.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667111668" ignored="false" />
+    <file path="/auth.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365612312404" ignored="false" />
+    <file path="/user.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365615328098" ignored="false" />
+    <file path="/message.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365612270682" ignored="false" />
+    <file path="/data.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365580569580" ignored="false" />
+    <file path="/messages-read.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365323907311" ignored="false" />
+    <file path="/message-create.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365362342578" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/login.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538253597" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/login.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365227468030" ignored="false" />
+    <file path="/index-login.ejs" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667424953" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/main-login.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365228090045" ignored="false" />
+    <file path="/main-login.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667353598" ignored="false" />
+    <file path="/login.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365234419713" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/login.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365234420749" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/message.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456088544" ignored="false" />
+    <file path="/message.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456088544" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/messages.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538435970" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/messages.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245293042" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/app.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365455235537" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/message-create.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245315934" ignored="false" />
+    <file path="/message-create.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245252085" ignored="false" />
+    <file path="/messages.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365245272688" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/messageCreate.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538596040" ignored="false" />
+    <file path="/messageCreate.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365319724973" ignored="false" />
+    <file path="/app.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365455235537" ignored="false" />
+    <file path="/index.ejs" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365675909926" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/menuLocal.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365262884770" ignored="false" />
+    <file path="/menuLocal.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365262884770" ignored="false" />
+    <file path="/userPageMenu.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365255215394" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/userPageMenu.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365255222678" ignored="false" />
+    <file path="/userPageMenu.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365271930914" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/userPageMenu.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365271997900" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/ownerMenuLocal.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538563802" ignored="false" />
+    <file path="/ownerMenuLocal.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538562180" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/menu-local.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456366435" ignored="false" />
+    <file path="/menu-local.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456364923" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/user.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538399039" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/message.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538495939" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/session.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538423980" ignored="false" />
+    <file path="/session.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365597496329" ignored="false" />
+    <file path="/user-read.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365274597517" ignored="false" />
+    <file path="/ownerMenuLocal.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365416691730" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/ownerMenuLocal.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365416702527" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/userInfo.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538631439" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/userInfo.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365315142127" ignored="false" />
+    <file path="/userInfo.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365315131427" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/user-info.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365315458476" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/user-info.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365415719909" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/socketStatus.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365606199529" ignored="false" />
+    <file path="/socketStatus.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538554971" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/socket-status.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365322091660" ignored="false" />
+    <file path="/socket-status.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676032037" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/socket.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365537334880" ignored="false" />
+    <file path="/socket.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365537333507" ignored="false" />
+    <file path="/messages-subscribe.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365363997964" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/subscription.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538409751" ignored="false" />
+    <file path="/subscription.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365668984753" ignored="false" />
+    <file path="/a.dummy" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667480088" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/css/messages.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456121952" ignored="false" />
+    <file path="/messages.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365456114815" ignored="false" />
+    <file path="/user-info.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365415718949" ignored="false" />
+    <file path="/usersList.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365455182446" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/template/usersList.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365455184463" ignored="false" />
+    <file path="/filter.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365436791364" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/filter.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365436018261" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/templateHelpers.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365531195389" ignored="false" />
+    <file path="/usersListView.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365615787316" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/usersListView.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538643479" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/models/users.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538383122" ignored="false" />
+    <file path="/users.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538383122" ignored="false" />
+    <file path="/templateHelpers.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365531195073" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/views/message.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538246626" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/marionette.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365537016094" ignored="false" />
+    <file path="/marionette.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365617191326" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/backbone.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365536938110" ignored="false" />
+    <file path="/backbone.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538304807" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/backbone.patch.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365539007932" ignored="false" />
+    <file path="$PROJECT_DIR$/../client/js/deps-global.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538215525" ignored="false" />
+    <file path="/deps-global.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365538168374" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-frameset.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-transitional.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-strict.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/XMLSchema.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xinclude.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xslt-1_0.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/XMLSchema-instance.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xslt-2_0.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xml.xsd" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365567670602" ignored="false" />
+    <file path="/test.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365579845704" ignored="false" />
+    <file path="/data.sh" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365579585679" ignored="false" />
+    <file path="/createSampleDb.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365593309454" ignored="false" />
+    <file path="/fragment.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365592193641" ignored="false" />
+    <file path="/loadSession.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365603892457" ignored="false" />
+    <file path="/log.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365603806598" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/testSocketSpec.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365606373791" ignored="false" />
+    <file path="/var/site/twitter/client/js/views/usersListView.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667483597" ignored="false" />
+    <file path="/var/site/twitter/client/js/marionette.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365617193812" ignored="false" />
+    <file path="/var/site/twitter/client/js/main.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667319708" ignored="false" />
+    <file path="/var/site/twitter/client/js/config.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667382401" ignored="false" />
+    <file path="/var/site/twitter/client/js/main-login.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365667358736" ignored="false" />
+    <file path="$PROJECT_DIR$/../backbone/js/models/subscription.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365669563785" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/css/style.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676008983" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/js/twitter/twitter.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365675876530" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/template/main.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365673678212" ignored="false" />
+    <file path="/main.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365673642276" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/js/twitter/services.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676380427" ignored="false" />
+    <file path="/services.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676378801" ignored="false" />
+    <file path="/twitter.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365675673387" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/js/twitter/directives.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676393454" ignored="false" />
+    <file path="/directives.js" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676393032" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/css/socket-status.css" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676032037" ignored="false" />
+    <file path="/HTML Fragment (directives.js:139).html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676083392" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular/template/socket-status.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676332872" ignored="false" />
+    <file path="/socket-status.html" changelist="d14803bb-d6a2-419d-a627-87eefcec5f2d" time="1365676332128" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="server" />
+    <favorites_list name="Unnamed" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sockets/handlers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sockets/handlers/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sockets/handlers/messages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="108" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loadSession.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sockets/loadSession.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="24" selection-start="167" selection-end="169" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="36" selection-start="972" selection-end="972" vertical-scroll-proportion="0.014240506">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-angular/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="9" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sockets/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/createSampleDb.js" />
+        <option value="$PROJECT_DIR$/createSampleDb.js" />
+        <option value="$PROJECT_DIR$/sockets/session.js" />
+        <option value="$PROJECT_DIR$/log.js" />
+        <option value="$PROJECT_DIR$/sockets/loadSession.js" />
+        <option value="$PROJECT_DIR$/routes/auth.js" />
+        <option value="$PROJECT_DIR$/sockets/handlers/user.js" />
+        <option value="$PROJECT_DIR$/sockets/handlers/message.js" />
+        <option value="$PROJECT_DIR$/template/index-login.ejs" />
+        <option value="$PROJECT_DIR$/template/index.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/sockets/index.js" />
+        <option value="$PROJECT_DIR$/sockets/handlers/index.js" />
+        <option value="$PROJECT_DIR$/sockets/handlers/messages.js" />
+        <option value="$PROJECT_DIR$/template-angular/index.ejs" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="server" pattern="file:models//*||file:routes//*||file:sockets//*||file:app.js||file:template//*||file:main.js||file:data.js" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests" />
+        <subPane subId="Project Files" />
+        <subPane subId="server">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sockets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sockets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="handlers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="routes">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="models">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All" />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig" serverName="Twitter" serverId="736d1efd-3249-4f52-b734-691c1b29025d">
+    <servers>
+      <server id="736d1efd-3249-4f52-b734-691c1b29025d">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sockets/handlers" />
+      <recent name="$PROJECT_DIR$/template" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sockets/handlers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.createSampleDb">
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="main.js" node-parameters="/usr/local/lib/node_modules/supervisor/lib/cli-wrapper.js --exec /usr/local/bin/node --no-restart-on exit" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="." />
+      </envs>
+      <method />
+    </configuration>
+    <configuration default="false" name="supervisor app" type="NodeJSConfigurationType" factoryName="Node.js" singleton="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" node-parameters="/usr/local/lib/node_modules/supervisor/lib/cli-wrapper.js --exec /usr/local/bin/node --no-restart-on exit" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="." />
+      </envs>
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="NodeJSConfigurationType" factoryName="Node.js" singleton="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="." />
+      </envs>
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="createSampleDb" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="createSampleDb.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="." />
+      </envs>
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.supervisor app" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.app" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.createSampleDb" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14803bb-d6a2-419d-a627-87eefcec5f2d" name="Default" comment="" />
+      <created>1365056101717</created>
+      <updated>1365056101717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24184567" sideWeight="0.670571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40556368" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33821377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="4" y="22" width="1276" height="778" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-angular/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/handlers/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0806962" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/handlers/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/createSampleDb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="23" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/loadSession.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="167" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/handlers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-angular/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="9" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/handlers/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/handlers/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="36" selection-start="972" selection-end="972" vertical-scroll-proportion="0.014240506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15797788" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="server" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Twitter</title>
+    <link rel="stylesheet" href="/vendor/bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <link rel="stylesheet" href="/vendor/bower_components/bootstrap/dist/js/bootstrap.js"/>
+    <link rel='stylesheet' href='/css/app.css'>
+  </head>
+  <body>
+
+    <div id="app">Загружаю...</div>
+
+    <script data-main="/js/config" src="/vendor/bower_components/requirejs/require.js"></script>
+    <script>
+      function onRequireInit() {
+        require(["main"], function(run) {
+          run();
+        });
+      }
+    </script>
+
+  </body>
+</html>
