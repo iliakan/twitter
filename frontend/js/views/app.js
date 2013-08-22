@@ -38,7 +38,7 @@ define([
         this.renderLayout();
 
         view = new UsersListView();
-        this.containerLeftViews.add(view, 'userList');
+        this.containerLeftViews.add(view);
 
         this.containerLeftViews.forEach(function(view) {
           view.render();
@@ -114,7 +114,7 @@ define([
 
         if (socket.session.isAuthorized()) {
           var view = new MessageCreateView().render();
-          this.containerLeftViews.add(view, 'messageCreate');
+          this.containerLeftViews.add(view);
         }
 
       },
